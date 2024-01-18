@@ -1,0 +1,9 @@
+/* Стилі для фону */
+body {
+    background-image: url('background.jpga'); /* Замініть 'background.jpg' на URL свого зображення фону */
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    margin: 0;
+    padding: 0;
+}
